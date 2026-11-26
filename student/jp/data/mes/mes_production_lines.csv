@@ -1,0 +1,7 @@
+line_id,plant_id,plant_name,line_name,process_category,oee_target_pct
+LINE-NGO-01,PLT-NGO,名古屋第1工場,名古屋 精密研削・巻線第1ライン,MachiningAndWinding,86.0
+LINE-NGO-02,PLT-NGO,名古屋第1工場,名古屋 真空接合・サーボ組立第2ライン,BrazingAndAssembly,85.0
+LINE-HMM-01,PLT-HMM,浜松精密工場,浜松 ロータ精密研削第1ライン,PrecisionGrinding,88.0
+LINE-HMM-02,PLT-HMM,浜松精密工場,浜松 真空ろう付け・クリーン組立第2ライン,BrazingAndCleanroom,87.0
+LINE-KKJ-01,PLT-KKJ,北九州工場,北九州 リニアモジュール加工第1ライン,LinearMachining,84.0
+LINE-KKJ-02,PLT-KKJ,北九州工場,北九州 ダイレクトドライブ組立第2ライン,HeavyAssembly,85.0

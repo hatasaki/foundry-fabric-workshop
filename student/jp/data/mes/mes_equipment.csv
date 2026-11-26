@@ -1,0 +1,16 @@
+equipment_id,equipment_name,equipment_type,line_id,vendor_name,install_date,last_calibration_date,calibration_cycle_days,days_since_calibration,operating_state_code
+EQ-CNC-101,5軸精密ロータ研削盤 CNC-101,CNCGrinder,LINE-HMM-01,JTEKT Precision,2023-06-15,2026-02-08,90,95,2
+EQ-CNC-102,5軸精密ロータ研削盤 CNC-102,CNCGrinder,LINE-NGO-01,JTEKT Precision,2024-01-20,2026-04-02,90,42,1
+EQ-CNC-103,リニアシャフト研削盤 CNC-103,CNCGrinder,LINE-KKJ-01,Okuma,2023-09-10,2026-03-25,90,50,1
+EQ-VBF-204,第2真空ろう付け炉 VBF-204,VacuumBrazingFurnace,LINE-HMM-02,Ulvac Thermal,2022-11-01,2026-01-25,90,109,3
+EQ-VBF-205,第3真空ろう付け炉 VBF-205,VacuumBrazingFurnace,LINE-NGO-02,Ulvac Thermal,2024-04-12,2026-04-20,90,24,1
+EQ-WND-301,高速自動平角巻線機 WND-301,CoilWinder,LINE-NGO-01,Nittoku,2023-05-18,2026-04-10,120,34,1
+EQ-WND-302,高占積率自動巻線機 WND-302,CoilWinder,LINE-HMM-01,Nittoku,2023-08-22,2026-03-30,120,45,1
+EQ-WND-303,大型ステータ巻線機 WND-303,CoilWinder,LINE-KKJ-02,Nittoku,2022-12-05,2026-03-15,120,60,1
+EQ-ASM-401,クリーンルーム自動圧入セル ASM-401,CleanAssemblyCell,LINE-HMM-02,Fanuc Integration,2024-02-14,2026-04-15,90,29,1
+EQ-ASM-402,サーボ精密組立セル ASM-402,ServoAssemblyCell,LINE-NGO-02,Fanuc Integration,2024-03-01,2026-04-18,90,26,1
+EQ-ASM-403,リニアステージ組立セル ASM-403,LinearAssemblyCell,LINE-KKJ-01,Yaskawa Integration,2023-10-19,2026-04-05,90,39,1
+EQ-ASM-404,ダイレクトドライブ組立セル ASM-404,HeavyAssemblyCell,LINE-KKJ-02,Yaskawa Integration,2023-11-30,2026-04-08,90,36,1
+EQ-TST-501,トルクリップル・絶縁総合検査装置 TST-501,EndOfLineTester,LINE-HMM-02,HIOKI Custom,2024-01-10,2026-04-28,60,16,1
+EQ-TST-502,サーボ総合特性検査装置 TST-502,EndOfLineTester,LINE-NGO-02,HIOKI Custom,2024-04-15,2026-05-01,60,13,1
+EQ-TST-503,高推力負荷試験ベンチ TST-503,EndOfLineTester,LINE-KKJ-02,Ono Sokki,2023-07-07,2026-04-22,60,22,1

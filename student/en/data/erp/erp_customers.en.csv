@@ -1,0 +1,11 @@
+customer_id,customer_name,industry,customer_tier,region,account_exec,sla_penalty_jpy_per_day,requires_8d_hours
+CUS-001,"Japan Robotics Systems Co., Ltd.",IndustrialRobotics,Tier1,Chubu,Kenichi Sato,800000,48
+CUS-002,"Tokai Mobility Electronics Co., Ltd.",AutomotiveEV,Tier1,Chubu,Misaki Suzuki,650000,48
+CUS-003,"Kansai Semiconductor Equipment Co., Ltd.",SemiconductorEquip,Tier1,Kansai,Makoto Takahashi,900000,24
+CUS-004,"Capital Region Medical Robotics Co., Ltd.",MedicalDevices,Tier1,Kanto,Yoko Tanaka,700000,48
+CUS-005,"Kyushu Factory Automation Co., Ltd.",FactoryAutomation,Tier2,Kyushu,Shota Ito,250000,72
+CUS-006,"Hokuriku Precision Machine Tools Co., Ltd.",MachineTools,Tier2,Hokuriku,Kenichi Sato,200000,72
+CUS-007,"Tohoku Agri-Drone Systems Co., Ltd.",AutonomousSystems,Tier2,Tohoku,Daisuke Watanabe,150000,96
+CUS-008,"Setouchi Material Handling Engineering Co., Ltd.",LogisticsAutomation,Tier2,Chugoku,Makoto Takahashi,180000,72
+CUS-009,"Shinetsu Clean Transport Technologies Co., Ltd.",SemiconductorEquip,Tier3,Chubu,Misaki Suzuki,100000,120
+CUS-010,"Sagamihara Test Lab Equipment Co., Ltd.",TestingEquipment,Tier3,Kanto,Yoko Tanaka,80000,120

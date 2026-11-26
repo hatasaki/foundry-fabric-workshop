@@ -1,0 +1,11 @@
+customer_id,customer_name,industry,customer_tier,region,account_exec,sla_penalty_jpy_per_day,requires_8d_hours
+CUS-001,日本ロボティクスシステムズ株式会社,IndustrialRobotics,Tier1,Chubu,佐藤 健一,800000,48
+CUS-002,東海モビリティ電装株式会社,AutomotiveEV,Tier1,Chubu,鈴木 美咲,650000,48
+CUS-003,関西セミコンダクター装置株式会社,SemiconductorEquip,Tier1,Kansai,高橋 誠,900000,24
+CUS-004,首都圏メディカルロボ株式会社,MedicalDevices,Tier1,Kanto,田中 陽子,700000,48
+CUS-005,九州ファクトリーオートメーション株式会社,FactoryAutomation,Tier2,Kyushu,伊藤 翔太,250000,72
+CUS-006,北陸精密工作機械株式会社,MachineTools,Tier2,Hokuriku,佐藤 健一,200000,72
+CUS-007,東北アグリドローンシステムズ株式会社,AutonomousSystems,Tier2,Tohoku,渡辺 大輔,150000,96
+CUS-008,瀬戸内マテハンエンジニアリング株式会社,LogisticsAutomation,Tier2,Chugoku,高橋 誠,180000,72
+CUS-009,信越クリーン搬送テクノロジーズ株式会社,SemiconductorEquip,Tier3,Chubu,鈴木 美咲,100000,120
+CUS-010,相模原テストラボ機器株式会社,TestingEquipment,Tier3,Kanto,田中 陽子,80000,120

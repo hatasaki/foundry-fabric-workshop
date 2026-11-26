@@ -1,0 +1,13 @@
+material_id,material_name,material_category,uom,standard_cost_jpy,primary_supplier_id,backup_supplier_id,criticality_code,max_moisture_ppm
+MAT-BRG-01,セラミック転動体アンギュラ軸受,Bearing,PCS,9800,SUP-001,SUP-001,HIGH,500
+MAT-COL-02,高占積率平角銅線ステータコイル,StatorCoil,SET,14200,SUP-002,SUP-002,HIGH,300
+MAT-ENC-03,24bit光学式アブソリュートエンコーダ,SensorModule,PCS,22000,SUP-005,SUP-005,CRITICAL,200
+MAT-MAG-04,高耐熱ネオジム焼結磁石ロータコア,RareEarthMagnet,PCS,18500,SUP-003,SUP-007,CRITICAL,150
+MAT-BRZ-05,銀銅系真空ろう材リング,BrazingAlloy,PCS,4200,SUP-004,SUP-008,CRITICAL,80
+MAT-HSG-06,高剛性アルミ合金中空ハウジング,Housing,PCS,11600,SUP-006,SUP-006,MEDIUM,1000
+MAT-SHF-07,浸炭焼入れ中空スプラインシャフト,Shaft,PCS,13400,SUP-001,SUP-001,HIGH,800
+MAT-PCB-08,耐ノイズ電流制御ドライバ基板,Electronics,PCS,16900,SUP-005,SUP-005,HIGH,120
+MAT-SEL-09,クリーンルーム低発塵フッ素オイルシール,Seal,SET,3100,SUP-004,SUP-008,MEDIUM,400
+MAT-GRM-10,波動歯車減速機フレックススプライン,GearSet,SET,28500,SUP-001,SUP-001,CRITICAL,500
+MAT-INS-11,ポリイミド高耐熱スロット絶縁紙,Insulation,SET,1900,SUP-002,SUP-002,MEDIUM,250
+MAT-THM-12,高熱伝導シリコーン放熱シート,ThermalInterface,PCS,1400,SUP-006,SUP-006,LOW,600

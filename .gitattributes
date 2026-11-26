@@ -1,0 +1,4 @@
+* text=auto
+student/*/data/**/*.csv -text
+student/*/data/unstructured_docs/*.md -text
+instructor/resources/expected_oracle.json -text

@@ -1,0 +1,9 @@
+supplier_id,supplier_name,country,supplier_tier,lead_time_days,quality_rating_score,is_qualified_backup,iso_cert_status
+SUP-001,名港精密ベアリング工業株式会社,JP,Primary,10,95,false,ISO9001_IATF16949
+SUP-002,京都ファインコイル電線株式会社,JP,Primary,8,93,false,ISO9001
+SUP-003,東海レアアース精工株式会社,JP,Primary,14,78,false,ConditionalReview
+SUP-004,武蔵野真空ブレージング合金株式会社,JP,Primary,12,91,false,ISO9001_AS9100
+SUP-005,浜松オプトエンコーダ株式会社,JP,Primary,9,97,false,ISO9001_IATF16949
+SUP-006,北九州アルミダイカスト精機株式会社,JP,Primary,7,90,false,ISO9001
+SUP-007,信州マグネットマテリアルズ株式会社,JP,BackupQualified,7,96,true,ISO9001_IATF16949
+SUP-008,神戸アドバンスドろう材株式会社,JP,BackupQualified,6,94,true,ISO9001

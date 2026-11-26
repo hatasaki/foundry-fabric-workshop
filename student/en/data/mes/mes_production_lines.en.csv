@@ -1,0 +1,7 @@
+line_id,plant_id,plant_name,line_name,process_category,oee_target_pct
+LINE-NGO-01,PLT-NGO,Nagoya Plant 1,Nagoya Line 1 - Precision Grinding and Winding,MachiningAndWinding,86.0
+LINE-NGO-02,PLT-NGO,Nagoya Plant 1,Nagoya Line 2 - Vacuum Bonding and Servo Assembly,BrazingAndAssembly,85.0
+LINE-HMM-01,PLT-HMM,Hamamatsu Precision Plant,Hamamatsu Line 1 - Precision Rotor Grinding,PrecisionGrinding,88.0
+LINE-HMM-02,PLT-HMM,Hamamatsu Precision Plant,Hamamatsu Line 2 - Vacuum Brazing and Cleanroom Assembly,BrazingAndCleanroom,87.0
+LINE-KKJ-01,PLT-KKJ,Kitakyushu Plant,Kitakyushu Line 1 - Linear Module Machining,LinearMachining,84.0
+LINE-KKJ-02,PLT-KKJ,Kitakyushu Plant,Kitakyushu Line 2 - Direct-drive Assembly,HeavyAssembly,85.0

@@ -1,0 +1,59 @@
+{
+  "scenario_reference_date": "2026-05-14",
+  "row_counts": {
+    "erp_customers": 10,
+    "erp_suppliers": 8,
+    "erp_materials": 12,
+    "erp_products": 6,
+    "erp_bom": 18,
+    "erp_sales_orders": 24,
+    "erp_purchase_orders": 16,
+    "mes_production_lines": 6,
+    "mes_equipment": 15,
+    "mes_material_lots": 18,
+    "mes_work_orders": 30,
+    "mes_quality_inspections": 24,
+    "iot_sensors": 15,
+    "iot_telemetry": 360,
+    "iot_equipment_alerts": 10,
+    "unstructured_doc_catalog": 8
+  },
+  "blast_radius_eq_vbf_204_and_lot_mag_088": {
+    "root_equipment_id": "EQ-VBF-204",
+    "root_material_lot_id": "LOT-MAG-088",
+    "root_supplier_id": "SUP-003",
+    "qualified_backup_supplier_id": "SUP-007",
+    "healthy_alternate_equipment_id": "EQ-VBF-205",
+    "impacted_work_order_ids": [
+      "WO-2026-1007",
+      "WO-2026-1012",
+      "WO-2026-1019"
+    ],
+    "impacted_sales_order_ids": [
+      "SO-2026-004",
+      "SO-2026-009",
+      "SO-2026-015"
+    ],
+    "hidden_erp_inproduction_sales_order_id": "SO-2026-015",
+    "impacted_customer_ids": [
+      "CUS-001",
+      "CUS-002",
+      "CUS-003"
+    ],
+    "total_impacted_order_amount_jpy": 99700000,
+    "total_daily_sla_penalty_jpy": 2350000
+  },
+  "calibration_overdue_equipment_ids": [
+    "EQ-CNC-101",
+    "EQ-VBF-204"
+  ],
+  "tier1_calibration_violation_work_order_id": "WO-2026-1025",
+  "moisture_violation_lot_id": "LOT-MAG-088",
+  "moisture_violation_ppm": 182,
+  "active_sales_amount_by_product_family_jpy": {
+    "ServoActuator": 150400000,
+    "LinearModule": 99600000,
+    "CleanroomActuator": 58500000,
+    "DirectDrive": 50400000
+  }
+}

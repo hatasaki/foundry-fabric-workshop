@@ -1,0 +1,9 @@
+supplier_id,supplier_name,country,supplier_tier,lead_time_days,quality_rating_score,is_qualified_backup,iso_cert_status
+SUP-001,"Meiko Precision Bearing Industries Co., Ltd.",JP,Primary,10,95,false,ISO9001_IATF16949
+SUP-002,"Kyoto Fine Coil and Wire Co., Ltd.",JP,Primary,8,93,false,ISO9001
+SUP-003,"Tokai Rare Earth Precision Co., Ltd.",JP,Primary,14,78,false,ConditionalReview
+SUP-004,"Musashino Vacuum Brazing Alloys Co., Ltd.",JP,Primary,12,91,false,ISO9001_AS9100
+SUP-005,"Hamamatsu Opto Encoder Co., Ltd.",JP,Primary,9,97,false,ISO9001_IATF16949
+SUP-006,"Kitakyushu Aluminum Die Casting and Precision Machinery Co., Ltd.",JP,Primary,7,90,false,ISO9001
+SUP-007,"Shinshu Magnet Materials Co., Ltd.",JP,BackupQualified,7,96,true,ISO9001_IATF16949
+SUP-008,"Kobe Advanced Brazing Materials Co., Ltd.",JP,BackupQualified,6,94,true,ISO9001

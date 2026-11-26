@@ -1,0 +1,7 @@
+product_id,product_name,product_family,rated_power_w,standard_price_jpy,standard_cost_jpy,target_margin_pct
+PRD-ACT-900,High-precision hollow servo actuator HA-900,ServoActuator,1500,480000,297600,38.0
+PRD-ACT-650,Low-profile cleanroom actuator CA-650,CleanroomActuator,750,650000,396500,39.0
+PRD-ACT-400,Compact collaborative robot joint actuator JA-400,ServoActuator,400,320000,204800,36.0
+PRD-LIN-320,High-speed linear servo module LM-320,LinearModule,800,390000,253500,35.0
+PRD-LIN-500,High-thrust linear stage module LM-500,LinearModule,1200,540000,340200,37.0
+PRD-DDM-800,Direct-drive rotary table DD-800,DirectDrive,2000,720000,432000,40.0

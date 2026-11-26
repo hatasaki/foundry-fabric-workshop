@@ -1,0 +1,16 @@
+sensor_id,equipment_id,sensor_model,measurement_domain,sampling_interval_sec,temp_warn_c,temp_crit_c,vib_crit_mm_s,vacuum_crit_pa
+SNS-CNC-101,EQ-CNC-101,Keyence-VT200,SpindleVibTemp,10,65.0,75.0,4.5,0.0
+SNS-CNC-102,EQ-CNC-102,Keyence-VT200,SpindleVibTemp,10,65.0,75.0,4.5,0.0
+SNS-CNC-103,EQ-CNC-103,Keyence-VT200,SpindleVibTemp,10,65.0,75.0,4.5,0.0
+SNS-VBF-204,EQ-VBF-204,Ulvac-TM900,FurnaceTempVacuum,5,820.0,835.0,2.5,5.0
+SNS-VBF-205,EQ-VBF-205,Ulvac-TM900,FurnaceTempVacuum,5,820.0,835.0,2.5,5.0
+SNS-WND-301,EQ-WND-301,Omron-K6CM,TensionVibTemp,15,55.0,65.0,3.5,0.0
+SNS-WND-302,EQ-WND-302,Omron-K6CM,TensionVibTemp,15,55.0,65.0,3.5,0.0
+SNS-WND-303,EQ-WND-303,Omron-K6CM,TensionVibTemp,15,55.0,65.0,3.5,0.0
+SNS-ASM-401,EQ-ASM-401,SMC-PF3W,CleanPressCell,30,26.0,28.0,2.0,0.0
+SNS-ASM-402,EQ-ASM-402,SMC-PF3W,PressCell,30,30.0,35.0,2.2,0.0
+SNS-ASM-403,EQ-ASM-403,SMC-PF3W,PressCell,30,30.0,35.0,2.2,0.0
+SNS-ASM-404,EQ-ASM-404,SMC-PF3W,PressCell,30,30.0,35.0,2.2,0.0
+SNS-TST-501,EQ-TST-501,HIOKI-PW3390,BenchMonitor,60,32.0,38.0,1.8,0.0
+SNS-TST-502,EQ-TST-502,HIOKI-PW3390,BenchMonitor,60,32.0,38.0,1.8,0.0
+SNS-TST-503,EQ-TST-503,HIOKI-PW3390,BenchMonitor,60,32.0,38.0,1.8,0.0
